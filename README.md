@@ -1,4 +1,4 @@
-# Matrices-Addition-using-CUDA
+# Matrices Addition using CUDA
 
 Addition Of (2x3) Matrices Programmed with C++ using CUDA
 
